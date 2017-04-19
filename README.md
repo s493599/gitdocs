@@ -1,0 +1,2 @@
+# gitdocs
+My technical notes
